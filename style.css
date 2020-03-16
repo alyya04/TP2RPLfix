@@ -1,0 +1,12 @@
+.app {
+    background-color: rgb(222,184,135);
+}
+
+.wrapper {
+    margin-top: 30%;
+    margin-bottom: 100%;
+}
+
+.warning {
+    display: none;
+}
